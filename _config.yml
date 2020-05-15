@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Profissional com formação em Dev e com forte atuação em atividades voltadas à Ops há mais de 7 anos. Bacharel em Análise de Sistemas, certificado em Administração Linux pelo Linux Professional Institute e CompTIA. Participação ativa na comunidade open-source.
   <br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/amaurybsouza/">My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
